@@ -1,2 +1,2 @@
 # SEproject
-tool.py will validate data
+tool.py will validate the entered data.
